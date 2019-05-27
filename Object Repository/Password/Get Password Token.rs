@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <WebServiceRequestEntity>
    <description></description>
-   <name>Change Password</name>
+   <name>Get Password Token</name>
    <tag></tag>
    <elementGuidId>0f5528ef-f280-4090-bc71-07b3f60cf28a</elementGuidId>
    <selectorMethod>BASIC</selectorMethod>
@@ -12,7 +12,7 @@
    <httpBodyType></httpBodyType>
    <migratedVersion>5.4.1</migratedVersion>
    <restRequestMethod>GET</restRequestMethod>
-   <restUrl>http://apiunilog.unicode.edu.vn</restUrl>
+   <restUrl>http://apiunilog.unicode.edu.vn/api/Password/token/vmdung450%40gmail.com</restUrl>
    <serviceType>RESTful</serviceType>
    <soapBody></soapBody>
    <soapHeader></soapHeader>
