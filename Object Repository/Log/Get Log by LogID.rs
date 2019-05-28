@@ -12,186 +12,18 @@
    <httpBodyType></httpBodyType>
    <migratedVersion>5.4.1</migratedVersion>
    <restRequestMethod>GET</restRequestMethod>
-   <restUrl>http://apiunilog.unicode.edu.vn/api/Log/{id}</restUrl>
+   <restUrl>http://apiunilog.unicode.edu.vn/api/Log/13</restUrl>
    <serviceType>RESTful</serviceType>
    <soapBody></soapBody>
    <soapHeader></soapHeader>
    <soapRequestMethod></soapRequestMethod>
    <soapServiceFunction></soapServiceFunction>
    <variables>
-      <defaultValue>''</defaultValue>
+      <defaultValue>13</defaultValue>
       <description></description>
-      <id>99b55b17-4970-4fc0-ab35-fed3bb3a816e</id>
+      <id>1941f4af-64d9-401e-ad3f-9d680785fefb</id>
       <masked>false</masked>
-      <name>variable</name>
-   </variables>
-   <variables>
-      <defaultValue>''</defaultValue>
-      <description></description>
-      <id>3c724ed9-75bf-4baa-838e-5032cabb4d8b</id>
-      <masked>false</masked>
-      <name>variable_0</name>
-   </variables>
-   <variables>
-      <defaultValue>''</defaultValue>
-      <description></description>
-      <id>32321897-042f-4f06-8792-edcdd4bbbd18</id>
-      <masked>false</masked>
-      <name>variable_1</name>
-   </variables>
-   <variables>
-      <defaultValue>''</defaultValue>
-      <description></description>
-      <id>4b51d898-1906-4652-9477-a5017a54338e</id>
-      <masked>false</masked>
-      <name>variable_2</name>
-   </variables>
-   <variables>
-      <defaultValue>''</defaultValue>
-      <description></description>
-      <id>a0a9e01a-f899-4d0f-9a04-42ce3242feee</id>
-      <masked>false</masked>
-      <name>variable_3</name>
-   </variables>
-   <variables>
-      <defaultValue>''</defaultValue>
-      <description></description>
-      <id>d36ffc37-6af7-470a-99f6-dc87ebe1e64a</id>
-      <masked>false</masked>
-      <name>variable_4</name>
-   </variables>
-   <variables>
-      <defaultValue>''</defaultValue>
-      <description></description>
-      <id>8d3e7f97-4a96-43c1-ac57-5c34be8a0e67</id>
-      <masked>false</masked>
-      <name>variable_5</name>
-   </variables>
-   <variables>
-      <defaultValue>''</defaultValue>
-      <description></description>
-      <id>8953252f-103e-4a7a-b461-2439d7f29485</id>
-      <masked>false</masked>
-      <name>variable_6</name>
-   </variables>
-   <variables>
-      <defaultValue>''</defaultValue>
-      <description></description>
-      <id>ef64662a-c13b-49a5-8ebc-c21f2a47cfcd</id>
-      <masked>false</masked>
-      <name>variable_7</name>
-   </variables>
-   <variables>
-      <defaultValue>''</defaultValue>
-      <description></description>
-      <id>e9586c45-e697-4de8-bf2b-8555a0bd3c91</id>
-      <masked>false</masked>
-      <name>variable_8</name>
-   </variables>
-   <variables>
-      <defaultValue>''</defaultValue>
-      <description></description>
-      <id>e1662569-bdb4-44cc-8d2f-22278832f599</id>
-      <masked>false</masked>
-      <name>variable_9</name>
-   </variables>
-   <variables>
-      <defaultValue>''</defaultValue>
-      <description></description>
-      <id>e3924efa-11f4-4f2b-9609-7dcff6bcfec2</id>
-      <masked>false</masked>
-      <name>variable_10</name>
-   </variables>
-   <variables>
-      <defaultValue>''</defaultValue>
-      <description></description>
-      <id>9a5fbd9b-0f70-4f5a-9527-0da661f793e1</id>
-      <masked>false</masked>
-      <name>variable_11</name>
-   </variables>
-   <variables>
-      <defaultValue>''</defaultValue>
-      <description></description>
-      <id>3344971e-322b-429e-9107-5e25d186bb0d</id>
-      <masked>false</masked>
-      <name>variable_12</name>
-   </variables>
-   <variables>
-      <defaultValue>''</defaultValue>
-      <description></description>
-      <id>f5eaeee9-d38d-4ec3-ace2-dada9eafd5f9</id>
-      <masked>false</masked>
-      <name>variable_13</name>
-   </variables>
-   <variables>
-      <defaultValue>''</defaultValue>
-      <description></description>
-      <id>46fce32d-e9f4-4143-810c-42a17961fef9</id>
-      <masked>false</masked>
-      <name>variable_14</name>
-   </variables>
-   <variables>
-      <defaultValue>''</defaultValue>
-      <description></description>
-      <id>43a9f0e6-40e4-4b59-bd87-4b84c8ead3a0</id>
-      <masked>false</masked>
-      <name>variable_15</name>
-   </variables>
-   <variables>
-      <defaultValue>''</defaultValue>
-      <description></description>
-      <id>7bcfa2b7-e8db-45e3-9bd4-16f823ed759a</id>
-      <masked>false</masked>
-      <name>variable_16</name>
-   </variables>
-   <variables>
-      <defaultValue>''</defaultValue>
-      <description></description>
-      <id>52721e0d-0596-4a44-bbf4-7b5eb5b30afd</id>
-      <masked>false</masked>
-      <name>variable_17</name>
-   </variables>
-   <variables>
-      <defaultValue>''</defaultValue>
-      <description></description>
-      <id>9b40ea72-7645-4e95-a6d8-121741b8b3a4</id>
-      <masked>false</masked>
-      <name>variable_18</name>
-   </variables>
-   <variables>
-      <defaultValue>''</defaultValue>
-      <description></description>
-      <id>e9ac0a3d-ba71-484b-9b29-fc4bf310fbed</id>
-      <masked>false</masked>
-      <name>variable_19</name>
-   </variables>
-   <variables>
-      <defaultValue>''</defaultValue>
-      <description></description>
-      <id>c79c3b5c-a348-4175-ba6f-28b2a860e8a6</id>
-      <masked>false</masked>
-      <name>variable_20</name>
-   </variables>
-   <variables>
-      <defaultValue>''</defaultValue>
-      <description></description>
-      <id>1de54b31-0d38-42ac-a3d8-c53b61ef0808</id>
-      <masked>false</masked>
-      <name>variable_21</name>
-   </variables>
-   <variables>
-      <defaultValue>''</defaultValue>
-      <description></description>
-      <id>6422d691-2692-4702-bdd0-5817b439c1fc</id>
-      <masked>false</masked>
-      <name>variable_22</name>
-   </variables>
-   <variables>
-      <defaultValue>''</defaultValue>
-      <description></description>
-      <id>40bba517-b2fa-459f-98b4-ec6147e5fe2c</id>
-      <masked>false</masked>
-      <name>variable_23</name>
+      <name>id</name>
    </variables>
    <verificationScript>import static org.assertj.core.api.Assertions.*
 
@@ -206,6 +38,9 @@ import internal.GlobalVariable as GlobalVariable
 RequestObject request = WSResponseManager.getInstance().getCurrentRequest()
 
 ResponseObject response = WSResponseManager.getInstance().getCurrentResponse()
+
+
+
 </verificationScript>
    <wsdlAddress></wsdlAddress>
 </WebServiceRequestEntity>
