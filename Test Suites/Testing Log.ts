@@ -11,25 +11,31 @@
    <rerunFailedTestCasesOnly>false</rerunFailedTestCasesOnly>
    <testSuiteGuid>8a5493dd-feee-4a08-b964-3bc0e1c90877</testSuiteGuid>
    <testCaseLink>
-      <guid>e2528d20-1ddb-491c-ba19-19f1c53a8910</guid>
+      <guid>f877ae7e-81ab-4218-beb4-3de9c41d554e</guid>
       <isReuseDriver>false</isReuseDriver>
       <isRun>true</isRun>
       <testCaseId>Test Cases/Testing Log/Delete a Log</testCaseId>
    </testCaseLink>
    <testCaseLink>
-      <guid>78ef27a2-b85f-4c11-bffd-5d1af58bb8e9</guid>
+      <guid>963b527f-991d-46f2-872d-f93b3df99c35</guid>
       <isReuseDriver>false</isReuseDriver>
       <isRun>true</isRun>
       <testCaseId>Test Cases/Testing Log/Get Log by LogID</testCaseId>
    </testCaseLink>
    <testCaseLink>
-      <guid>2e4f45af-7337-462e-9e75-789cff0acad4</guid>
+      <guid>e7dadf9a-7d2a-4c39-8ccd-0eb12791e8b9</guid>
       <isReuseDriver>false</isReuseDriver>
       <isRun>true</isRun>
       <testCaseId>Test Cases/Testing Log/Get Log</testCaseId>
    </testCaseLink>
    <testCaseLink>
-      <guid>9f614b6d-6dab-4dda-a5c2-95dd93faf208</guid>
+      <guid>659fe149-684f-4431-b7e1-300ad16e3eef</guid>
+      <isReuseDriver>false</isReuseDriver>
+      <isRun>true</isRun>
+      <testCaseId>Test Cases/Testing Log/Post Log Error</testCaseId>
+   </testCaseLink>
+   <testCaseLink>
+      <guid>bec16944-ebc3-430e-9d6c-f9814354b75b</guid>
       <isReuseDriver>false</isReuseDriver>
       <isRun>true</isRun>
       <testCaseId>Test Cases/Testing Log/Post Log</testCaseId>
